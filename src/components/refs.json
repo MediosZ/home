@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Blog",
+    "description": "The place contains the blog posts.",
+    "url": "https://blog.mediosz.club"
+  },
+  {
+    "title": "Root Notes",
+    "description": "A system for notes that are inter-connnected.",
+    "url": "https://notes.mediosz.club"
+  },
+  {
+    "title": "Who am I?",
+    "description": "",
+    "url": null
+  }
+]
